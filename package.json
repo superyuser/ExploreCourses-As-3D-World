@@ -1,0 +1,15 @@
+{
+  "name": "explorecourses-as-3d-world",
+  "version": "1.0.0",
+  "description": "unity VR project hehehe",
+  "main": "storeSupabase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.3"
+  }
+}
